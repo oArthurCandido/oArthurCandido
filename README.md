@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning front and back-end web development
 - 👯 I’m looking to collaborate on ecommerce business 
 - 🤔 I’m looking for help with css and js
-- 💬 Ask me about how to use tray ecommerce, mercadolivre e bling ERP
+- 💬 Ask me about CSS, HTML, how to use tray ecommerce, mercadolivre e bling ERP
 - 📫 How to reach me: https://www.linkedin.com/in/arthurcandido/
 - ⚡ Fun fact: i live with a dog that have the same name as i, and he was here before me.
 
