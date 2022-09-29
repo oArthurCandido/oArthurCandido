@@ -1,10 +1,10 @@
 ### Olá, eu sou o Arthur 👋
 
-- 🔭 I’m currently working on a career transition
-- 🌱 I’m currently learning front and back-end web development
-- 👯 I’m looking to collaborate on ecommerce business 
-- 🤔 I’m looking for help with css and js
-- 💬 Ask me about CSS, HTML, how to use tray ecommerce, mercadolivre e bling ERP
+- 🔭 I’m currently working with NextJS and Material UI
+- 🌱 I’m currently studying a degree in technology at Univesp University
+- 👯 I’m looking to collaborate on social business  
+- 🤔 I’m looking for help with React and responsive UI
+- 💬 Ask me about CSS, HTML, JS, how to use tray ecommerce, mercadolivre and bling ERP
 - 📫 How to reach me: https://www.linkedin.com/in/arthurcandido/
 - ⚡ Fun fact: i live with a dog that have the same name as i, and he was here before me.
 
