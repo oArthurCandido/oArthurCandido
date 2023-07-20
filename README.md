@@ -1,11 +1,11 @@
 ### Olá, eu sou o Arthur 👋
 
-- 🔭 I’m currently working with NextJS and Material UI
+- 🔭 I’m currently working with NextJS and Tailwind
 - 🌱 I’m currently studying a degree in technology at Univesp University
-- 👯 I’m looking to collaborate on social business  
-- 🤔 I’m looking for help with React and responsive UI
+- 👯 I’m looking to collaborate with Next implementations  
+- 🤔 I’m looking for help with React with Typescript and responsive UI
 - 💬 Ask me about CSS, HTML, JS, how to use tray ecommerce, mercadolivre and bling ERP
-- 📫 How to reach me: https://www.linkedin.com/in/arthurcandido/
+- 📫 How to reach me: https://www.arthurcandido.dev/
 - ⚡ Fun fact: i live with a dog that have the same name as i, and he was here before me.
 
 
