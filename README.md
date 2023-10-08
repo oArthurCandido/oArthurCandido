@@ -1,6 +1,6 @@
 ### Olá, eu sou o Arthur 👋
 
-- 🔭 I’m currently working with NextJS and Tailwind
+- 🔭 I’m currently working with NestJS, NextJS and Tailwind
 - 🌱 I’m currently studying a degree in technology at Univesp University
 - 👯 I’m looking to collaborate with Next implementations  
 - 🤔 I’m looking for help with React with Typescript and responsive UI
